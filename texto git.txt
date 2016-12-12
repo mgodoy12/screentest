@@ -6,3 +6,6 @@ test
 
 
 nosso primeiro arquivo
+
+
+agora vamos para o segundo commit, e tentar entender
